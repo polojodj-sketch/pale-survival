@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " R ",
+    "RTR",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:resin_brick"
+    },
+    "T": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "id": "palesurvival:resin_lantern",
+    "count": 1
+  }
+}

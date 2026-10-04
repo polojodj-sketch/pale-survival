@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " W ",
+    "WRW",
+    " P "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "R": {
+      "item": "minecraft:resin_clump"
+    },
+    "P": {
+      "item": "minecraft:pale_oak_planks"
+    }
+  },
+  "result": {
+    "id": "palesurvival:creaking_plush",
+    "count": 1
+  }
+}

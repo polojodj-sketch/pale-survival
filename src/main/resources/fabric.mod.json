@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "palesurvival",
+  "version": "${version}",
+  "name": "Pale Survival",
+  "description": "Survival helpers for the 1.21.4 Pale Garden: pale berries, eyeblossom stew, resin lantern and a creaking plush with a cozy aura. Lightweight, FCL-friendly.",
+  "authors": [
+    "FCL Friend"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ru.fcl.palesurvival.PaleSurvivalMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.4",
+    "java": ">=21"
+  }
+}
